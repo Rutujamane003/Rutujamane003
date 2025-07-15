@@ -20,13 +20,10 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
-
-
-
-- 📫 How to reach me **manerutuja1107@gmail.com**
+- 📫 How to reach me
+-  **manerutuja1107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
